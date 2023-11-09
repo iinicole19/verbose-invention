@@ -1,0 +1,10 @@
+
+mkdir new-project
+
+cd new-project
+
+git init
+
+git remote add origin git@github.com:<username>/<repo>.git
+
+git branch -M main
